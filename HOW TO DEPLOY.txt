@@ -1,0 +1,10 @@
+Login : heroku login
+
+Git Login: Set login of git from web
+
+Start with :
+
+1) heroku git:remote -a karanpatel
+2) git add .
+3) git commit -am "Statement"
+4) git push heroku master
